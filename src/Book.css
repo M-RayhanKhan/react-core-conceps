@@ -1,0 +1,8 @@
+.book{
+    padding: 10;
+    margin: 10;
+    border: 2px solid blue;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    background-color: rgba(0, 0, 255, 0.672);
+}
